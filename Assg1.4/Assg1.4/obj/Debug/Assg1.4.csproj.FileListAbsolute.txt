@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Assignments\Assg1.4\Assg1.4\obj\Debug\Assg1.4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\Assg1.4\Assg1.4\bin\Debug\Assg1.4.exe.config
+C:\Users\Administrator\Desktop\Assignments\Assg1.4\Assg1.4\bin\Debug\Assg1.4.exe
+C:\Users\Administrator\Desktop\Assignments\Assg1.4\Assg1.4\bin\Debug\Assg1.4.pdb
+C:\Users\Administrator\Desktop\Assignments\Assg1.4\Assg1.4\obj\Debug\Assg1.4.exe
+C:\Users\Administrator\Desktop\Assignments\Assg1.4\Assg1.4\obj\Debug\Assg1.4.pdb

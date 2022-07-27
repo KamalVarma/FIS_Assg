@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\bin\Debug\Assg3.2.exe.config
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\bin\Debug\Assg3.2.exe
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\bin\Debug\Assg3.2.pdb
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\obj\Debug\Assg3.2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\obj\Debug\Assg3.2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\obj\Debug\Assg3.2.exe
+C:\Users\Administrator\Desktop\Assignments\Assg3.2\Assg3.2\obj\Debug\Assg3.2.pdb

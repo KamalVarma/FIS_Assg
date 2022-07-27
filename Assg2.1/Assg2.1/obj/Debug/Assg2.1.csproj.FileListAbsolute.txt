@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\bin\Debug\Assg2.1.exe.config
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\bin\Debug\Assg2.1.exe
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\bin\Debug\Assg2.1.pdb
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\obj\Debug\Assg2.1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\obj\Debug\Assg2.1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\obj\Debug\Assg2.1.exe
+C:\Users\Administrator\Desktop\Assignments\Assg2.1\Assg2.1\obj\Debug\Assg2.1.pdb

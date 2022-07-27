@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\bin\Debug\Assg1.3.exe.config
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\bin\Debug\Assg1.3.exe
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\bin\Debug\Assg1.3.pdb
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\obj\Debug\Assg1.3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\obj\Debug\Assg1.3.exe
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\obj\Debug\Assg1.3.pdb
+C:\Users\Administrator\Desktop\Assignments\Assg1.3\Assg1.3\obj\Debug\Assg1.3.csproj.AssemblyReference.cache

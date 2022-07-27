@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Assignments\Assg2.2\Assg2.2\bin\Debug\Assg2.2.exe.config
+C:\Users\Administrator\Desktop\Assignments\Assg2.2\Assg2.2\bin\Debug\Assg2.2.exe
+C:\Users\Administrator\Desktop\Assignments\Assg2.2\Assg2.2\bin\Debug\Assg2.2.pdb
+C:\Users\Administrator\Desktop\Assignments\Assg2.2\Assg2.2\obj\Debug\Assg2.2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\Assg2.2\Assg2.2\obj\Debug\Assg2.2.exe
+C:\Users\Administrator\Desktop\Assignments\Assg2.2\Assg2.2\obj\Debug\Assg2.2.pdb
